@@ -1,9 +1,9 @@
 const contractAddress = "0x76499530550Dfc725eB081F552FF282E83CaDC9f"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to Cheeful Crypto Clover NFT Project!!";
+const welcome_h1 = "Welcome to the Cheeful Crypto Clover NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Cheerful Crypto Clover NFT project is fun foray into the world of NFTs! target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The Cheerful Crypto Clover NFT project is a fun foray into the world of NFTs!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";

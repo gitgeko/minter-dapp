@@ -1,5 +1,5 @@
-const contractAddress = "0x76499530550Dfc725eB081F552FF282E83CaDC9f"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0xb31D9a6Fd5D236adF477C1fF097413b009E9A38C"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Cheeful Crypto Clover NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
